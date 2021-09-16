@@ -71,7 +71,7 @@ namespace RantGenerator
 
                 
              }
-            // for (int i = 0; i <= rants.Length; i++)
+            // for (int i = 0; i <= rants.Count; i++)
             // {
             //     Console.WriteLine(rants[i]);
             // }
