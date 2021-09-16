@@ -1,0 +1,16 @@
+C:\Users\corey\OneDrive\RantGenerator\bin\Debug\net5.0\RantGenerator.exe
+C:\Users\corey\OneDrive\RantGenerator\bin\Debug\net5.0\RantGenerator.deps.json
+C:\Users\corey\OneDrive\RantGenerator\bin\Debug\net5.0\RantGenerator.runtimeconfig.json
+C:\Users\corey\OneDrive\RantGenerator\bin\Debug\net5.0\RantGenerator.runtimeconfig.dev.json
+C:\Users\corey\OneDrive\RantGenerator\bin\Debug\net5.0\RantGenerator.dll
+C:\Users\corey\OneDrive\RantGenerator\bin\Debug\net5.0\ref\RantGenerator.dll
+C:\Users\corey\OneDrive\RantGenerator\bin\Debug\net5.0\RantGenerator.pdb
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\RantGenerator.csproj.AssemblyReference.cache
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\RantGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\RantGenerator.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\RantGenerator.AssemblyInfo.cs
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\RantGenerator.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\RantGenerator.dll
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\ref\RantGenerator.dll
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\RantGenerator.pdb
+C:\Users\corey\OneDrive\RantGenerator\obj\Debug\net5.0\RantGenerator.genruntimeconfig.cache
